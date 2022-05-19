@@ -1,0 +1,23 @@
+
+input{
+   background-color: transparent;
+   border: 0;
+   font-size: 15px;
+   color: #FFF;
+   outline: none;
+   margin-right: 8px;
+   
+}
+.Input{
+    width: 150px;
+    background-color: rgb(255,255,255,0.2);
+    padding: 15px;
+    margin: 34px 0;
+    display: flex;
+    border-radius: 8px;
+    box-shadow: 1px 3px 8px rgba(0, 0, 0, 0.5);
+    
+}
+input::placeholder{
+    color:#F1f1f1;
+}
